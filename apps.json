@@ -24,11 +24,5 @@
     "developer": "-2i [IN DEVELOPMENT]",
     "name": "leaderboards",
     "icon": "https://www.speedrun.com/images/logocover.png"
-  },
-  {
-    "url": "https://example.com",
-    "developer": "-2i [IN DEVELOPMENT]",
-    "name": "Test",
-    "icon": "https://www.speedrun.com/images/logocover.png"
   }
 ]
