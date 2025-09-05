@@ -29,9 +29,10 @@
     "icon": "https://www.speedrun.com/images/logocover.png"
   },
   {
-    "url": "https://pwebgames.github.io/SharkGame/",
+    "url": "https://vlgrskckaw.netlify.app",
     "developer": "-2i",
-    "name": "idle shark"
+    "name": "idle shark",
+    "icon": "https://raw.githubusercontent.com/Cirrial/SharkGame/refs/heads/master/img/sharkgame.png"
   },
   {
     "url": "https://y6teh8xnjl.netlify.app",
