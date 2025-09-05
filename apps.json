@@ -1,11 +1,13 @@
 [
   {
     "url": "https://pwebgames.github.io/drivemad/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "drive mad"
   },
   {
     "url": "https://pwebgames.github.io/ovo/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "ovo"
   },
   {
     "url": "https://pwebgames.github.io/LevelDevil/",
@@ -27,19 +29,23 @@
   },
   {
     "url": "https://pwebgames.github.io/SharkGame/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "idle shark"
   },
   {
     "url": "https://pwebgames.github.io/minesweeper/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "minesweeper"
   },
   {
     "url": "https://pwebgames.github.io/solitaire/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "solitaire"
   },
   {
     "url": "https://pwebgames.github.io/idle-breakout/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "idle breakout"
   },
   {
     "url": "https://pwebgames.github.io/cookie-clicker/",
@@ -49,7 +55,8 @@
   },
   {
     "url": "https://pwebgames.github.io/2048/",
-    "developer": "-2i"
+    "developer": "-2i",
+    "name": "2048"
   },
   {
     "url": "https://s-d5g.pages.dev/",
