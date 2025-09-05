@@ -33,7 +33,7 @@
     "name": "idle shark"
   },
   {
-    "url": "https://pwebgames.github.io/minesweeper/",
+    "url": "https://y6teh8xnjl.netlify.app",
     "developer": "-2i",
     "name": "minesweeper"
   },
@@ -57,10 +57,5 @@
     "url": "https://r6pb9nzqjw.netlify.app",
     "developer": "-2i",
     "name": "2048"
-  },
-  {
-    "url": "https://s-d5g.pages.dev/",
-    "developer": "-2i",
-    "name": "GameHub"
   }
 ]
