@@ -64,5 +64,11 @@
     "developer": "-2i",
     "name": "2048",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2048_Icon.png"
+  },
+  {
+    "url": "https://wbjvjz8etk.netlify.app",
+    "developer": "-2i",
+    "name": "btd5",
+    "icon": "https://static.wikia.nocookie.net/b__/images/8/8e/BTD5_10th_icon.png/revision/latest?cb=20221117021005&path-prefix=bloons"
   }
 ]
