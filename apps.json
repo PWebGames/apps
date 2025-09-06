@@ -70,5 +70,11 @@
     "developer": "-2i",
     "name": "btd5",
     "icon": "https://static.wikia.nocookie.net/b__/images/8/8e/BTD5_10th_icon.png/revision/latest?cb=20221117021005&path-prefix=bloons"
+  },
+  {
+    "url": "https://vczapv7au4.netlify.app/",
+    "developer": "-2i",
+    "name": "Minecraft",
+    "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8d/Bedrock_Edition_Google_Play_icon_1.png/revision/latest?cb=20230705034225"
   }
 ]
