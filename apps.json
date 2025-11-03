@@ -86,7 +86,8 @@
   {
     "url": "https://gj1smzk0dp.netlify.app",
     "developer": "-2i",
-    "name": "incremancer"
+    "name": "incremancer",
+    "icon": "https://raw.githubusercontent.com/PWebGames/incremancer/refs/heads/master/images/zombie-512.png"
   },
   {
     "url": "https://8wx02hcuj4.netlify.app",
