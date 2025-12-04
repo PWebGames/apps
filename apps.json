@@ -73,7 +73,7 @@
   },
   {
     "url": "https://ddnf85fzep.netlify.app",
-    "developer": "-2i (May Need Controller)",
+    "developer": "-2i 🎮",
     "name": "Minecraft",
     "icon": "https://i.ibb.co/WpFwb9gL/IMG-1232.png"
   },
@@ -97,8 +97,14 @@
   },
   {
     "url": "https://0xv3iwwtmh.netlify.app",
-    "developer": "-2i (Many Need Controller)",
+    "developer": "-2i 🎮",
     "name": "Slime Rancher",
     "icon": "https://0xv3iwwtmh.netlify.app/512.png"
+  },
+  {
+    "url": "https://lbt5vwezg9.netlify.app/",
+    "developer": "-2i 🎮",
+    "name": "Undertale Yellow",
+    "icon": "https://lbt5vwezg9.netlify.app/512.png"
   }
 ]
