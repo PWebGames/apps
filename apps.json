@@ -130,11 +130,5 @@
     "developer": "-2i",
     "name": "Minato",
     "icon": "https://www.example.com"
-  },
-  {
-    "url": "https://zspdo2b4mv.netlify.app",
-    "developer": "-2i",
-    "name": "Demon Bluff Demo",
-    "icon": "https://zspdo2b4mv.netlify.app/512.png"
   }
 ]
