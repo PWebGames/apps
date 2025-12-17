@@ -130,5 +130,11 @@
     "developer": "-2i",
     "name": "Minato",
     "icon": "https://www.example.com"
+  },
+  {
+    "url": "https://fk1so36ikk.netlify.app/",
+    "developer": "-2i",
+    "name": "Dungeon Decks",
+    "icon": "https://fk1so36ikk.netlify.app/icons/512.png"
   }
 ]
