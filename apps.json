@@ -1,5 +1,7 @@
 [
   {
+    "comment": [
+      {
     "url": "https://lv8aptd0ts.netlify.app",
     "developer": "-2i",
     "name": "leaderboards",
@@ -179,4 +181,11 @@
     "name": "GD",
     "icon": "https://036pu0j9ps.netlify.app/icons/icon-512.png"
   }
+    ],
+    "url": "",
+    "developer": "Have a good rest of your year :]",
+    "name": "Down for maintenance",
+    "icon": "https://i.ibb.co/8nzG98K5/under-construction-sign.png"
+  }
+    
 ]
