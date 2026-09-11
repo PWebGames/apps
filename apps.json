@@ -4,5 +4,11 @@
     "developer": "-2i",
     "name": "Beatblock",
     "icon": "https://8v5xjlg26p.netlify.app/icons/512.jpg"
+  },
+  {
+    "url": "https://www.example.com",
+    "developer": "We'll add back the other stuff after finishing reworks",
+    "name": "Sorry for the lack of stuff",
+    "icon": ""
   }
 ]
