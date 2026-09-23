@@ -1,38 +1,8 @@
 [
   {
-    "url": "https://www.example.com",
-    "developer": "We'll add back the other stuff after finishing reworks",
-    "name": "Sorry for the lack of stuff",
-    "icon": ""
-  },
-  {
-    "url": "https://8v5xjlg26p.netlify.app/",
-    "developer": "-2i",
-    "name": "Beatblock",
-    "icon": "https://8v5xjlg26p.netlify.app/icons/512.jpg"
-  },
-  {
-    "url": "https://wbjvjz8etk.netlify.app",
-    "developer": "-2i",
-    "name": "btd5",
-    "icon": "https://i.ibb.co/3Y5yxzKP/1000.webp"
-  },
-  {
-    "url": "https://4wrqnufd3v.netlify.app/",
-    "developer": "Will Be Updated to Chapter 5 soon",
-    "name": "Deltarune",
-    "icon": "https://4wrqnufd3v.netlify.app/512.png"
-  },
-  {
-    "url": "https://l9qc84uh23.netlify.app/",
-    "developer": "-2i [Laptop Recomended]",
-    "name": "Hollow Knight",
-    "icon": "https://l9qc84uh23.netlify.app/imgs/512.png"
-  },
-  {
     "url": "https://cc0kiifkgb.netlify.app/gamemaker",
-    "developer": "-2i",
-    "name": "UNDERTALE",
+    "developer": "Just like the github sites ban netlify has been blocked, I will have to find another hosting service",
+    "name": "Another * Block :[",
     "icon": "https://cc0kiifkgb.netlify.app/512.png"
   }
 ]
