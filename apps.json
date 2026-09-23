@@ -4,5 +4,11 @@
     "developer": "Just like the github sites ban netlify has been blocked, I will have to find another hosting service",
     "name": "Another * Block :[",
     "icon": "https://cc0kiifkgb.netlify.app/512.png"
+  },
+  {
+    "url": "https://www.example.com",
+    "developer": "They seem to have blocked all hosting services I know of, its a miracle they missed this",
+    "name": "Update",
+    "icon": "https://www.example.com"
   }
 ]
